@@ -33,7 +33,7 @@ it is library of python that helps to handle large amount of data using arrays
 Pip install numpy
 ```
 # Arrays
-it is cam collection pf number or values that can can store same time in a organized way.
+It is collection of number or values that can can store same time in a organized way.
 OR
 A NumPy array (also called `ndarray`) is a multidimensional, homogeneous collection of elements (all elements have the same data type), arranged in rows and columns.
 # Syntax

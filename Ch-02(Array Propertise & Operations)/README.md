@@ -34,4 +34,13 @@ array.astype(new data type)
 ├──────────────┼────────────────┤
 │      %       │     a % 2      │
 └──────────────┴────────────────┘
-
+# Aggregate Function Tabel
+| function | What it does |
+|------------|------------|
+| np.sum(array) | Add all elements |
+| np.mean(array) | Calculate the Average |
+| np.min(array) | Find the minimum value |
+| np.max(array) | Find the maximum value |
+| np.std(array) | Calculate the standard deviation |
+| np.var(array) | Calculate the variance |
+--------------------------------------------------------
